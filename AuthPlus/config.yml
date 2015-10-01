@@ -1,0 +1,11 @@
+mysql:
+  host: localhost
+  port: 3306
+  user: root
+  password: root
+  database: minecraft
+  table: authme
+session:
+  time: 30
+settings:
+  allowUserName: '[a-zA-Z0-9_?!@+&-]*'
